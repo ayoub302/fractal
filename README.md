@@ -20,7 +20,7 @@ Clone this repository:
 
 bash
 Copiar
-git clone https://github.com/ayoub302/fractol.git
+git clone https://github.com/ayoub302/fractal.git
 Navigate to the project directory:
 
 bash
